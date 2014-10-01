@@ -1509,10 +1509,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>34</ColumnNumber>
+      <ColumnNumber>47</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>70</TopLine>
-      <CurrentLine>81</CurrentLine>
+      <TopLine>55</TopLine>
+      <CurrentLine>70</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\src\main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -1575,7 +1575,7 @@
       <Focus>0</Focus>
       <ColumnNumber>3</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>141</TopLine>
+      <TopLine>152</TopLine>
       <CurrentLine>164</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\src\rtc.c</PathWithFileName>

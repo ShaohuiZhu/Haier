@@ -36,7 +36,6 @@ void Main_task(void * pvParameters)
 	{
 		vTaskDelay(2000);
 		uart_putstr("Main_task start.");
-		
 	}
 }
 /**
@@ -63,9 +62,12 @@ void Touch_task(void * pvParameters)
 	{
 		vTaskDelay(2000);
 		uart_putstr("Touch_task start.");
+		
 		RTC_GetTime(RTC_Format_BCD, &RTC_TimeStruct_get);
 		RTC_GetDate(RTC_Format_BCD, &RTC_DateStruct_get);
+		uart_putchar(RTC_TimeStruct_get.RTC_Hours);
 		uart_putchar(RTC_TimeStruct_get.RTC_Minutes);
+		uart_putchar(RTC_TimeStruct_get.RTC_Seconds);
 	}
 }
 /**
