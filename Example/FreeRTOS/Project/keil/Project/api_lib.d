@@ -7,7 +7,7 @@
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\port\STM32F4xx\arch/cpu.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/opt.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/api.h
-.\project\api_lib.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\api_lib.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/netbuf.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/pbuf.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/err.h
@@ -18,7 +18,7 @@
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\api_lib.o: ..\inc\FreeRTOSConfig.h
-.\project\api_lib.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\api_lib.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\portable.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
@@ -40,4 +40,4 @@
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/tcp.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/mem.h
 .\project\api_lib.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\ipv4\lwip/icmp.h
-.\project\api_lib.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\api_lib.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

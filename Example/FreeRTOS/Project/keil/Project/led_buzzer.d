@@ -4,7 +4,7 @@
 .\project\led_buzzer.o: ..\inc\main.h
 .\project\led_buzzer.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\led_buzzer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\led_buzzer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\led_buzzer.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\led_buzzer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\led_buzzer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\led_buzzer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -51,7 +51,7 @@
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\port\STM32F4xx\arch/cpu.h
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/opt.h
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/api_msg.h
-.\project\led_buzzer.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\led_buzzer.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\ipv4\lwip/ip_addr.h
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/def.h
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/err.h
@@ -78,7 +78,7 @@
 .\project\led_buzzer.o: ..\inc\includes.h
 .\project\led_buzzer.o: ..\inc\stm32f4xx_it.h
 .\project\led_buzzer.o: ..\inc\debug_uart.h
-.\project\led_buzzer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
-.\project\led_buzzer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
-.\project\led_buzzer.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\led_buzzer.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\project\led_buzzer.o: D:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\project\led_buzzer.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
 .\project\led_buzzer.o: ..\inc\led_buzzer.h

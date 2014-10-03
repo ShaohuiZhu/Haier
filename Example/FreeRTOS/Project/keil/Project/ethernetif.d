@@ -13,10 +13,10 @@
 .\project\ethernetif.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/sys.h
 .\project\ethernetif.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\port\STM32F4xx\arch/sys_arch.h
 .\project\ethernetif.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\ethernetif.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\ethernetif.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\ethernetif.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\ethernetif.o: ..\inc\FreeRTOSConfig.h
-.\project\ethernetif.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\ethernetif.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\ethernetif.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\portable.h
 .\project\ethernetif.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
 .\project\ethernetif.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
@@ -67,4 +67,4 @@
 .\project\ethernetif.o: ..\inc\stm32f4x7_eth_bsp.h
 .\project\ethernetif.o: ..\..\..\..\Libraries\STM32F4x7_ETH_Driver\inc\stm32f4x7_eth.h
 .\project\ethernetif.o: ..\..\..\..\Libraries\STM32F4x7_ETH_Driver\inc\eth_conf.h
-.\project\ethernetif.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\ethernetif.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

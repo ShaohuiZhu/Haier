@@ -892,8 +892,8 @@ ARM Macro Assembler    Page 14
               00000000 
               00000000 
 Command Line: --debug --xref --cpu=Cortex-M4.fp --apcs=interwork --depend=.\pro
-ject\startup_stm32f429x.d -o.\project\startup_stm32f429x.o -IC:\Keil\ARM\RV31\I
-NC -IC:\Keil\ARM\CMSIS\Include -IC:\Keil\ARM\Inc\ST\STM32F4xx --predefine="__MI
+ject\startup_stm32f429x.d -o.\project\startup_stm32f429x.o -ID:\Keil\ARM\RV31\I
+NC -ID:\Keil\ARM\CMSIS\Include -ID:\Keil\ARM\Inc\ST\STM32F4xx --predefine="__MI
 CROLIB SETA 1" --list=.\project\startup_stm32f429x.lst ..\..\..\..\Libraries\CM
 SIS\Device\ST\STM32F4xx\Source\Templates\arm\startup_stm32f429x.s
 

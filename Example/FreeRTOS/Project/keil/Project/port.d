@@ -1,9 +1,9 @@
 .\project\port.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\port.c
 .\project\port.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\port.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\port.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\port.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\port.o: ..\inc\FreeRTOSConfig.h
-.\project\port.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\port.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\port.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\portable.h
 .\project\port.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
 .\project\port.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h

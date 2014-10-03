@@ -845,6 +845,21 @@
               <FileType>1</FileType>
               <FilePath>..\src\debug_uart.c</FilePath>
             </File>
+            <File>
+              <FileName>rtc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\rtc.c</FilePath>
+            </File>
+            <File>
+              <FileName>led_buzzer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\led_buzzer.c</FilePath>
+            </File>
+            <File>
+              <FileName>timer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\timer.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

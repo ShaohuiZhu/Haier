@@ -84,8 +84,11 @@
 ".\project\rtc.o"
 ".\project\led_buzzer.o"
 ".\project\timer.o"
-".\project\gcom.o"
-".\project\netendecode.o"
+".\project\ac_component.o"
+".\project\ac_prime.o"
+".\project\ac_rx.o"
+".\project\ac_sub.o"
+".\project\ac_tx.o"
 --library_type=microlib --strict --scatter ".\Project\Project.sct"
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

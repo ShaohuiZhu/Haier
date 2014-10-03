@@ -11,10 +11,10 @@
 .\project\sys_arch.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/err.h
 .\project\sys_arch.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\port\STM32F4xx\arch/sys_arch.h
 .\project\sys_arch.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\sys_arch.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\sys_arch.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\sys_arch.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\sys_arch.o: ..\inc\FreeRTOSConfig.h
-.\project\sys_arch.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\sys_arch.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\sys_arch.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\portable.h
 .\project\sys_arch.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
 .\project\sys_arch.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h

@@ -4,7 +4,7 @@
 .\project\rtc.o: ..\inc\main.h
 .\project\rtc.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\rtc.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\rtc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\rtc.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\rtc.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\rtc.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\rtc.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -51,7 +51,7 @@
 .\project\rtc.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\port\STM32F4xx\arch/cpu.h
 .\project\rtc.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/opt.h
 .\project\rtc.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/api_msg.h
-.\project\rtc.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\rtc.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\rtc.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\ipv4\lwip/ip_addr.h
 .\project\rtc.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/def.h
 .\project\rtc.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/err.h
@@ -77,8 +77,8 @@
 .\project\rtc.o: ..\inc\rtc.h
 .\project\rtc.o: ..\inc\stm32f4xx_it.h
 .\project\rtc.o: ..\inc\debug_uart.h
-.\project\rtc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
-.\project\rtc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
-.\project\rtc.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\rtc.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\project\rtc.o: D:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\project\rtc.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
 .\project\rtc.o: ..\inc\led_buzzer.h
 .\project\rtc.o: ..\inc\includes.h
